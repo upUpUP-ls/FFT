@@ -1,0 +1,7 @@
+F:\1  C#程序\FFT变换_test\FFT变换_test\obj\x64\Debug\FFT变换_test.csprojAssemblyReference.cache
+F:\1  C#程序\FFT变换_test\FFT变换_test\obj\x64\Debug\FFT变换_test.csproj.CoreCompileInputs.cache
+F:\1  C#程序\FFT变换_test\FFT变换_test\bin\x64\Debug\FFT变换_test.exe.config
+F:\1  C#程序\FFT变换_test\FFT变换_test\bin\x64\Debug\FFT变换_test.exe
+F:\1  C#程序\FFT变换_test\FFT变换_test\bin\x64\Debug\FFT变换_test.pdb
+F:\1  C#程序\FFT变换_test\FFT变换_test\obj\x64\Debug\FFT变换_test.exe
+F:\1  C#程序\FFT变换_test\FFT变换_test\obj\x64\Debug\FFT变换_test.pdb
